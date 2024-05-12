@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "void_ingredients",
+  "ingredient": {
+    "item": "tutorialmod:void_amethyst"
+  },
+  "result": "tutorialmod:void_inf_pearl"
+}

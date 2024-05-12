@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 6,
+  "group": "void_ingredients",
+  "ingredient": {
+    "item": "tutorialmod:void_ore"
+  },
+  "result": "tutorialmod:void_crystal"
+}
